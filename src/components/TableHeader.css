@@ -1,0 +1,45 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #FFF7DF;
+    padding: 0 10px;    
+
+}
+
+.header__logo{
+    display: flex;
+    align-items: center;
+
+}
+
+.header__logo_img_start{
+    width: 25px;
+    height: 25px;
+}
+.header__logo_img{
+    width:25px;
+    height:25px;
+    margin : 0 10px;
+}
+
+.header_title{
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 20px;
+color: #6c6b71;
+text-transform: uppercase;
+}
+
+.header_sub{
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 20px;
+color: #6c6b71;
+}
+
+.header__down_img{
+    color: #2C2843;
+}
